@@ -1,6 +1,6 @@
-
+<<<<<<< HEAD
 #include<stdio.h>
-
+=======
 
 #include <stdlib.h>
 
@@ -43,4 +43,4 @@ void printMST(struct Edge result[], int e);
 // ================================
 // Main
 // ================================
-
+>>>>>>> b1
