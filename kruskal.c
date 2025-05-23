@@ -1,4 +1,5 @@
 #include<stdio.h>
+
 #include <stdlib.h>
 
 // ================================
@@ -22,3 +23,7 @@ struct Subset {
 // ================================
 // Function Declarations
 // ================================
+
+
+void printWelcomeMessage();
+
