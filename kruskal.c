@@ -1,5 +1,6 @@
 #include<stdio.h>
 
+
 #include <stdlib.h>
 
 // ================================
@@ -26,4 +27,6 @@ struct Subset {
 
 
 void printWelcomeMessage();
+
+void printMenu();
 
