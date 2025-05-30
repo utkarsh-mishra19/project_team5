@@ -256,4 +256,4 @@ void printMST(struct Edge result[], int e) {
     printf("====================================\n");
     printf("Total weight of MST: %d\n", totalWeight);
 }
-
+pulling 
