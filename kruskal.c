@@ -57,7 +57,7 @@ int main() {
 
     printf("\nEnter the number of vertices in the graph: ");
     while (scanf("%d", &graph->V) != 1 || graph->V <= 0) {
-        printf("Invalid input. Please enter a positive integer: ");
+        printf("Invalid inputis not allowed. Please enter a positive integer: ");
         while (getchar() != '\n');
     }
 
